@@ -16,3 +16,6 @@ The [Concourse CI Pipeline Editor](https://marketplace.visualstudio.com/items?it
 
 ## Spring Initializr Java
 The [Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr) extension provides support for generating quickstart Spring Boot Java projects with Spring Initiailizr API.
+
+## Spring Boot Dashboard
+The [Spring Boot Dashboard](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard) extension provides support for the features to quickly start, stop or debug a Spring Boot project.
